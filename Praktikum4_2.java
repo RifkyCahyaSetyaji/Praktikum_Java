@@ -1,4 +1,5 @@
-
+//Rifky Cahya Setyaji
+//255150401111002
 import java.util.Scanner;
 
 public class Praktikum4_2 {
